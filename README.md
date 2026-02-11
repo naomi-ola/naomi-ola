@@ -5,9 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst👩🏾‍💻📊
 ------------
 
-I’m a Business & Marketing graduate currently training in data analytics, with a strong interest in using data to drive better business decisions (particularly within marketing and commercial environments).
+I’m a Business & Marketing graduate currently training in data analytics, with a strong interest in using data to drive better business decisions (particularly within marketing and commercial environments). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical skills.
 
-Through my degree and ongoing Data Analyst Bootcamp, I’ve developed hands-on experience working with real-world datasets using SQL, Excel, Python, and data visualisation tools such as Power BI and Tableau. I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical skills.
+Through my degree and ongoing Data Analyst Bootcamp, I’ve developed hands-on experience working with real-world datasets using:
+*SQL
+*Excel
+*Python
+*Data visualisation tools: Power BI & Tableau
 
 I’ve also begun exploring cloud-based data tools, including Microsoft Azure, to understand how data is stored, processed, and analysed at scale. I’m especially interested in how analytics can be used to improve customer experience, campaign performance, and business strategy.
 
@@ -18,6 +22,8 @@ Alongside my technical training, I’ve worked in fast-paced, target-driven and 
 * 😄 Pronouns: She/Her
 * 🔭 I’m currently working on my portfolio
 * ⚡ Fun fact: My Hogwarts house is 𝓗𝓾𝓯𝓯𝓵𝓮𝓹𝓾𝓯𝓯💛🍯 (with a sprinkle of 𝓻𝓪𝒗𝒆𝒏𝓬𝓵𝒂𝒘🪄📘)
+
+
   
 
 <p align="left">
