@@ -9,12 +9,12 @@ I’m a creative Data Analyst with a Bachelor of Arts (Hons) in Business and Mar
 Through my degree and ongoing bootcamp, I’ve developed hands-on experience working with real-world datasets using:
 
 * SQL
-* Excel
+* Excel / Google Sheets
 * Python
 * Data visualisation tools: Power BI & Tableau
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><img width="36" height="36" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="36" height="36" src="https://img.icons8.com/color/48/microsoft-excel-2025.png" alt="microsoft-excel-2025"/> <img width="36" height="36" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><img width="36" height="36" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="36" height="36" src="https://img.icons8.com/color/48/microsoft-excel-2025.png" alt="microsoft-excel-2025"/> <img width="36" height="36" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> <img width="36" height="36" src="https://img.icons8.com/fluency/48/google-sheets--v2.png" alt="google-sheets--v2"/>
 </p>
 
 
