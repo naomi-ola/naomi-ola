@@ -24,6 +24,9 @@ I’ve also explored cloud-based data tools, including Microsoft Azure, to under
 
 Alongside my technical training, I’ve worked in fast-paced, target-driven and customer-facing environments which strengthened my communication, resilience, and problem-solving abilities. I’m motivated, adaptable, and eager to grow within a data, analytics, or marketing insights role where I can make a meaningful impact.
 
+## My Projects
+- [Student Performance Analysis Using Python (Pandas, Matplotlib, Seaborn)]
+
 * 🌍  I'm based in London
 * ✉️  You can contact me at [naomiolanipekun@yahoo.com](mailto:naomiolanipekun@yahoo.com)
 * 😄 Pronouns: She/Her
