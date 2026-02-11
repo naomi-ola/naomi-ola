@@ -8,10 +8,18 @@ Data Analyst👩🏾‍💻📊
 I’m a Business & Marketing graduate currently training in data analytics, with a strong interest in using data to drive better business decisions (particularly within marketing and commercial environments). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical skills.
 
 Through my degree and ongoing Data Analyst Bootcamp, I’ve developed hands-on experience working with real-world datasets using:
-*SQL
-*Excel
-*Python
-*Data visualisation tools: Power BI & Tableau
+
+* SQL
+* Excel
+* Python
+* Data visualisation tools: Power BI & Tableau
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><img width="36" height="36" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="36" height="36" src="https://img.icons8.com/color/48/microsoft-excel-2025.png" alt="microsoft-excel-2025"/> <img width="36" height="36" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+</p>
+
+
+
 
 I’ve also begun exploring cloud-based data tools, including Microsoft Azure, to understand how data is stored, processed, and analysed at scale. I’m especially interested in how analytics can be used to improve customer experience, campaign performance, and business strategy.
 
@@ -24,11 +32,6 @@ Alongside my technical training, I’ve worked in fast-paced, target-driven and 
 * ⚡ Fun fact: My Hogwarts house is 𝓗𝓾𝓯𝓯𝓵𝓮𝓹𝓾𝓯𝓯💛🍯 (with a sprinkle of 𝓻𝓪𝒗𝒆𝒏𝓬𝓵𝒂𝒘🪄📘)
 
 
-  
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><img width="36" height="36" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="36" height="36" src="https://img.icons8.com/color/48/microsoft-excel-2025.png" alt="microsoft-excel-2025"/> <img width="36" height="36" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
-</p>
 
 ### Socials
 
