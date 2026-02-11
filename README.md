@@ -26,6 +26,7 @@ Alongside my technical training, I’ve worked in fast-paced, target-driven and 
 
 ## My Projects
 - [Student Performance Analysis Using Python (Pandas, Matplotlib, Seaborn)](https://github.com/naomi-ola/python_studentgrades_analysis)
+- [Spotify Genre Analysis Using Tableau](https://github.com/naomi-ola/tableau_spotify_analysis)
 
 ##
 * 🌍  I'm based in London
