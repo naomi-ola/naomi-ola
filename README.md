@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst👩🏾‍💻📊
 ------------
 
-I’m a Business & Marketing graduate currently training in data analytics, with a strong interest in using data to drive better business decisions (particularly within marketing and commercial environments). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical skills.
+I’m a Business & Marketing BA (Hons) graduate currently training in data analytics, with a strong interest in using data to drive better business decisions (particularly within marketing and commercial environments). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical skills.
 
 Through my degree and ongoing Data Analyst Bootcamp, I’ve developed hands-on experience working with real-world datasets using:
 
