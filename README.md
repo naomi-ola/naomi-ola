@@ -29,7 +29,7 @@ Alongside my technical training, I’ve worked in fast-paced, target-driven and 
 - [Spotify Genre Analysis Using Tableau](https://github.com/naomi-ola/tableau_spotify_analysis)
 
 ##
-* 🌍  I'm based in London
+* 🌍  Born in Dublin, based in London
 * ✉️  You can contact me at [naomiolanipekun@yahoo.com](mailto:naomiolanipekun@yahoo.com)
 * 😄 Pronouns: She/Her
 * 🔭 I’m currently working on my portfolio
