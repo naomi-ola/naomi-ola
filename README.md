@@ -32,7 +32,7 @@ Alongside my technical training, I’ve worked in fast-paced, target-driven and 
 ##
 * 🌍  Born in Dublin, based in London
 * 😄 Pronouns: She/Her
-* 🔭 I’m currently working on my portfolio
+* 🔭 I’m currently working on more projects!
 * ⚡ Fun fact: My Hogwarts house is 𝓗𝓾𝓯𝓯𝓵𝓮𝓹𝓾𝓯𝓯💛🍯 (with a sprinkle of 𝓻𝓪𝒗𝒆𝒏𝓬𝓵𝒂𝒘🪄📘)
 * ✉️  You can contact me at [naomiolanipekun@yahoo.com](mailto:naomiolanipekun@yahoo.com)
 
