@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst👩🏾‍💻📊
 ------------
 
-I’m a creative Data Analyst with a Bachelor of Arts (Hons) in Business and Marketing. I'm currently looking for a dynamic role where I can utitlise my skills to drive business decisions (particularly within marketing and commercial environments). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical expertise.
+I’m a creative Data Analyst with a Bachelor of Arts (Hons) in Business and Marketing. I'm currently looking for a dynamic role where I can utilise my skills to drive business decisions (particularly within marketing and commercial environments). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical expertise.
 
 Through my degree and ongoing bootcamp, I’ve developed hands-on experience working with real-world datasets using:
 
@@ -25,9 +25,9 @@ I’ve also explored cloud-based data tools, including Microsoft Azure, to under
 Alongside my technical training, I’ve worked in fast-paced, target-driven and customer-facing environments which strengthened my communication, resilience, and problem-solving abilities. I’m motivated, adaptable, and eager to grow within a data, analytics, or marketing insights role where I can make a meaningful impact.
 
 ## My Projects
+- [UK Fast Food Brands Instragram Analysis Using Excel, SQL & Power BI](https://github.com/naomi-ola/UK_FastFood_SocialMedia_Analysis/blob/main/README.md)
 - [Student Performance Analysis Using Python (Pandas, Matplotlib, Seaborn)](https://github.com/naomi-ola/python_studentgrades_analysis)
 - [Spotify Genre Analysis Using Tableau](https://github.com/naomi-ola/tableau_spotify_analysis)
-- [UK Fast Food Brands Instragram Analysis Using Excel, SQL & Power BI](https://github.com/naomi-ola/UK_FastFood_SocialMedia_Analysis/blob/main/README.md)
 
 ##
 * 🌍  Born in Dublin, based in London
