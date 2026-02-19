@@ -22,7 +22,6 @@ Through my degree and ongoing bootcamp, I’ve developed hands-on experience wor
 
 I’ve also explored cloud-based data tools, including Microsoft Azure, to understand how data is stored, processed, and analysed at scale. I’m especially interested in how analytics can be used to improve customer experience, campaign performance, and business strategy.
 
-Alongside my technical training, I’ve worked in fast-paced, target-driven and customer-facing environments which strengthened my communication, resilience, and problem-solving abilities. I’m motivated, adaptable, and eager to grow within a data, analytics, or marketing insights role where I can make a meaningful impact.
 
 ## My Projects
 - [UK Fast Food Brands Instragram Analysis Using Excel, SQL & Power BI](https://github.com/naomi-ola/UK_FastFood_SocialMedia_Analysis/blob/main/README.md)
