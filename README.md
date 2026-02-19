@@ -27,14 +27,14 @@ Alongside my technical training, I’ve worked in fast-paced, target-driven and 
 ## My Projects
 - [Student Performance Analysis Using Python (Pandas, Matplotlib, Seaborn)](https://github.com/naomi-ola/python_studentgrades_analysis)
 - [Spotify Genre Analysis Using Tableau](https://github.com/naomi-ola/tableau_spotify_analysis)
+- [UK Fast Food Brands Instragram Analysis Using Excel, SQL & Power BI](https://github.com/naomi-ola/UK_FastFood_SocialMedia_Analysis/blob/main/README.md)
 
 ##
 * 🌍  Born in Dublin, based in London
-* ✉️  You can contact me at [naomiolanipekun@yahoo.com](mailto:naomiolanipekun@yahoo.com)
 * 😄 Pronouns: She/Her
 * 🔭 I’m currently working on my portfolio
 * ⚡ Fun fact: My Hogwarts house is 𝓗𝓾𝓯𝓯𝓵𝓮𝓹𝓾𝓯𝓯💛🍯 (with a sprinkle of 𝓻𝓪𝒗𝒆𝒏𝓬𝓵𝒂𝒘🪄📘)
-
+* ✉️  You can contact me at [naomiolanipekun@yahoo.com](mailto:naomiolanipekun@yahoo.com)
 
 
 ### Socials
