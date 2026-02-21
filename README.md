@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst👩🏾‍💻📊
 ------------
 
-I’m a creative junior Data Analyst with a Bachelor of Arts (Hons) in Business and Marketing. I'm currently looking for a dynamic role where I can utilise my skills to drive business decisions (particularly within marketing and commercial environments). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical expertise.
+I’m a creative, junior Data Analyst with a Bachelor of Arts (Hons) in Business and Marketing. I'm currently looking for a dynamic role where I can utilise my skills to drive business decisions (particularly within marketing and commercial environments). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical expertise.
 
 Through my degree and ongoing bootcamp, I’ve developed hands-on experience working with real-world datasets using:
 
