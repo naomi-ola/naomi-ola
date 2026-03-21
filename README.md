@@ -6,7 +6,7 @@ Data Analyst👩🏾‍💻📊
 
 I’m a creative, junior Data Analyst with a Bachelor of Arts (Hons) in Business and Marketing. I'm currently looking for a dynamic role where I can utilise my skills to drive business decisions (particularly within a collaborative and commercial environment). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical expertise.
 
-Through my degree and ongoing bootcamp, I’ve developed hands-on experience working with real-world datasets using:
+Through my degree and skills bootcamp, I’ve developed hands-on experience working with real-world datasets using:
 
 * SQL
 * Excel / Google Sheets
