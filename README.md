@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Naomi!
 ==============================================================================================================================
 
-Aspiring Business Analyst/Technical Business Analyst👩🏾‍💻📊
+Aspiring (Technical) Business Analyst👩🏾‍💻📊
 ------------
 I'm a creative Business and Marketing graduate working towards a career in business analysis and consulting, with hands-on technical experience in data analysis through a data analyst bootcamp with Just IT. I enjoy turning raw data and complex problems into clear, actionable insights, and I'm developing the skills to bridge business needs with technical solutions.
 I'm currently looking for a dynamic role where I can utilise my skills to drive business decisions, particularly within a collaborative and commercial environment, while continuing to grow my technical and analytical expertise.
