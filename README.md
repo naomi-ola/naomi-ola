@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Naomi!
 ==============================================================================================================================
 
-Data Analyst👩🏾‍💻📊
+Aspiring Business Analyst/Technical Business Analyst👩🏾‍💻📊
 ------------
-
-I’m a creative, junior Data Analyst with a Bachelor of Arts (Hons) in Business and Marketing. I'm currently looking for a dynamic role where I can utilise my skills to drive business decisions (particularly within a collaborative and commercial environment). I enjoy turning raw data into clear, actionable insights and continuously developing my technical and analytical expertise.
+I'm a creative Business and Marketing graduate working towards a career in business analysis and consulting, with hands-on technical experience in data analysis through a data analyst bootcamp with Just IT. I enjoy turning raw data and complex problems into clear, actionable insights, and I'm developing the skills to bridge business needs with technical solutions.
+I'm currently looking for a dynamic role where I can utilise my skills to drive business decisions, particularly within a collaborative and commercial environment, while continuing to grow my technical and analytical expertise.
 
 Through my degree and skills bootcamp, I’ve developed hands-on experience working with real-world datasets using:
 
@@ -20,7 +20,7 @@ Through my degree and skills bootcamp, I’ve developed hands-on experience work
 
 
 
-I’ve also explored cloud-based data tools, including Microsoft Azure, to understand how data is stored, processed, and analysed at scale. I’m especially interested in how analytics can be used to improve customer experience, campaign performance, and business strategy.
+I've also explored cloud-based data tools, including Microsoft Azure, to understand how data is stored, processed, and analysed at scale, giving me insight into the technical systems that sit behind business processes. I'm especially interested in applying business analysis within commercial environments such as marketing and customer-facing teams, improving those processes and systems to support better decision-making.
 
 
 ## My Projects
