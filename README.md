@@ -28,28 +28,18 @@ I've also explored cloud-based data tools, including Microsoft Azure, to underst
 - [Student Performance Analysis Using Python (Pandas, Matplotlib, Seaborn)](https://github.com/naomi-ola/python_studentgrades_analysis)
 - [Spotify Genre Analysis Using Tableau](https://github.com/naomi-ola/tableau_spotify_analysis)
 
-##
-* 🌍  Born in Dublin, based in London
+## Fun Facts
+* 🌍 Born in Dublin, based in London
 * 😄 Pronouns: She/Her
 * 🔭 I’m currently working on more projects!
 * ⚡ Fun fact: My Hogwarts house is 𝓗𝓾𝓯𝓯𝓵𝓮𝓹𝓾𝓯𝓯💛🍯 (with a sprinkle of 𝓻𝓪𝒗𝒆𝒏𝓬𝓵𝒂𝒘🪄📘)
 * ✉️  You can contact me at [naomiolanipekun@yahoo.com](mailto:naomiolanipekun@yahoo.com)
 
 
-### Socials
-</picture> </a> <a href="https://www.linkedin.com/in/naomi-olanipekun" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
 <!--
 **naomi-ola/naomi-ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 
 
 -->
